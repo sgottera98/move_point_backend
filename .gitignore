@@ -1,0 +1,30 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Arquivos de ambiente
+.env
+
+# Cache do sistema
+.DS_Store
+
+# Pasta de build
+build/
+dist/
+
+# IDEs e editores
+.idea/
+.vscode/
+
+# Test coverage
+coverage/
+
+# Outros
+*.swp
+*.bak
+*.tmp
+*.old
